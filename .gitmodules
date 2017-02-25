@@ -1,0 +1,12 @@
+[submodule "wordpress-formula"]
+	path = wordpress-formula
+	url = git@github.com:saltstack-formulas/wordpress-formula.git
+[submodule "apache-formula"]
+	path = apache-formula
+	url = git@github.com:saltstack-formulas/apache-formula.git
+[submodule "php-formula"]
+	path = php-formula
+	url = git@github.com:saltstack-formulas/php-formula.git
+[submodule "nginx-formula"]
+	path = nginx-formula
+	url = git@github.com:saltstack-formulas/nginx-formula.git
