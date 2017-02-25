@@ -10,3 +10,6 @@
 [submodule "nginx-formula"]
 	path = nginx-formula
 	url = git@github.com:saltstack-formulas/nginx-formula.git
+[submodule "docker-formula"]
+	path = docker-formula
+	url = git@github.com:saltstack-formulas/docker-formula.git
